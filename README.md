@@ -45,7 +45,7 @@ py photoEdit.py
 1. Place the images you want to convert in the images folder.
 2. Run the script to convert images from JPG to WebP:
 ```bash	
-python JPGtoWebP.py
+py JPGtoWebP.py
 ```
 3. Converted images will be saved in the convertedImgs folder.
 
