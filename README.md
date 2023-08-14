@@ -20,8 +20,8 @@ Before you begin, make sure you have the following installed:
 
 1. Clone this repository to your local environment:
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/SOCRAMBLLE/Python-Image-Editor.git
+cd Python-Image-Editor
 ```
 
 2. Install the required dependencies using pip:
